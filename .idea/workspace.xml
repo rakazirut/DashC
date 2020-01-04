@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c24b91ea-60b5-4d6e-8e93-29c5b556231e" name="Default Changelist" comment="+Add Box Plot Material">
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotExercise/BoxPlotExercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotExercise/abalone.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotExercise/boxplotexercise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotIntro/BoxPlot.py" afterDir="false" />
+    <list default="true" id="c24b91ea-60b5-4d6e-8e93-29c5b556231e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapExercise/HeatmpExercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapIntro/2010SantaBarbaraCA.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapIntro/2010SitkaAK.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapIntro/Heatmap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapIntro/Heatmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapIntro/MultHeatmap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapIntro/MultHeatmap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/linechartexercise.html" beforeDir="false" afterPath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/linechartexercise.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotIntro/BoxPlot.py">
+        <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapIntro/Heatmap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="216">
+              <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="38" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -29,11 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotExercise/BoxPlotExercise.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapIntro/MultHeatmap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="72">
+              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapExercise/HeatmpExercise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -46,7 +57,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>venv</find>
+      <find>\</find>
+      <find>df</find>
     </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+      <replace>df1</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,6 +94,14 @@
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotIntro/BoxPlot.py" />
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py" />
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotExercise/BoxPlotExercise.py" />
+        <option value="$PROJECT_DIR$/Course/PlotlyLearn/Histograms/HistogramsIntro/Histogram.py" />
+        <option value="$PROJECT_DIR$/Course/PlotlyLearn/Histograms/HistogramsExercise/HistogramExercise.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/Course/PlotlyLearn/Distplots/DistplotsIntro/Distplots.py" />
+        <option value="$PROJECT_DIR$/Course/PlotlyLearn/Distplots/DistplotsExercise/DistplotsExercise.py" />
+        <option value="$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapIntro/Heatmap.py" />
+        <option value="$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapIntro/MultHeatmap.py" />
+        <option value="$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapExercise/HeatmpExercise.py" />
       </list>
     </option>
   </component>
@@ -86,7 +111,9 @@
     <option name="width" value="976" />
     <option name="height" value="1066" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -116,30 +143,38 @@
               <item name="DashC" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
               <item name="PlotlyLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="BoxPlot" type="462c0819:PsiDirectoryNode" />
+              <item name="Heatmaps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DashC" type="b2602c69:ProjectViewProjectNode" />
               <item name="DashC" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
               <item name="PlotlyLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="BoxPlot" type="462c0819:PsiDirectoryNode" />
-              <item name="BoxPlotExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="Heatmaps" type="462c0819:PsiDirectoryNode" />
+              <item name="HeatmapExercise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DashC" type="b2602c69:ProjectViewProjectNode" />
               <item name="DashC" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
               <item name="PlotlyLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="BubblePlot" type="462c0819:PsiDirectoryNode" />
+              <item name="Heatmaps" type="462c0819:PsiDirectoryNode" />
+              <item name="HeatmapIntro" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DashC" type="b2602c69:ProjectViewProjectNode" />
               <item name="DashC" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
               <item name="PlotlyLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="BubblePlot" type="462c0819:PsiDirectoryNode" />
-              <item name="BubblePlotExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="LineChart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DashC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DashC" type="462c0819:PsiDirectoryNode" />
+              <item name="Course" type="462c0819:PsiDirectoryNode" />
+              <item name="PlotlyLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="LineChart" type="462c0819:PsiDirectoryNode" />
+              <item name="LineChartExercise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DashC" type="b2602c69:ProjectViewProjectNode" />
@@ -433,6 +468,7 @@
       <list>
         <item itemvalue="Python.PandasOne" />
         <item itemvalue="Python.PandasOne" />
+        <item itemvalue="Python.PandasOne" />
       </list>
     </recent_temporary>
   </component>
@@ -486,15 +522,28 @@
       <option name="project" value="LOCAL" />
       <updated>1578170285028</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="+Add Histograms Material">
+      <created>1578175277108</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578175277108</updated>
+    </task>
+    <task id="LOCAL-00006" summary="+Add Distplots Material">
+      <created>1578177494072</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578177494072</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30001000" />
+    <option name="totallyTimeSpent" value="36113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -510,8 +559,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3290461" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3660419" />
-      <window_info anchor="bottom" x="999" y="645" width="913" height="342" id="Terminal" order="12" side_tool="true" type="FLOATING" visible="true" weight="0.2370452" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49946696" weight="0.3660419" />
+      <window_info active="true" anchor="bottom" x="1041" y="617" width="913" height="342" id="Terminal" order="12" sideWeight="0.50053304" visible="true" weight="0.2370452" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -529,7 +578,9 @@
     <MESSAGE value="+Add Line Chart Material" />
     <MESSAGE value="+Add Bubble Plot Material" />
     <MESSAGE value="+Add Box Plot Material" />
-    <option name="LAST_COMMIT_MESSAGE" value="+Add Box Plot Material" />
+    <MESSAGE value="+Add Histograms Material" />
+    <MESSAGE value="+Add Distplots Material" />
+    <option name="LAST_COMMIT_MESSAGE" value="+Add Distplots Material" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DashC$NumpyOne.coverage" NAME="PandasOne Coverage Results" MODIFIED="1578011109795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PandasLearn" />
@@ -537,9 +588,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/PandasLearn/ExerciseOne.py">
@@ -629,40 +677,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotIntro/BubblePlot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" selection-start-line="6" selection-end-line="20" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotExercise/BubblePlotExercise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="2" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotIntro/BoxPlot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="21" selection-end-column="14" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
@@ -681,8 +699,115 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotExercise/BoxPlotExercise.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotIntro/bubbleplot.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotIntro/BubblePlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" selection-start-line="14" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotIntro/BoxPlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/Histograms/HistogramsIntro/Histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/Histograms/HistogramsExercise/HistogramExercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/Distplots/DistplotsExercise/DistplotsExercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/Distplots/DistplotsIntro/Distplots.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapIntro/MultHeatmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapIntro/Heatmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/Heatmaps/HeatmapExercise/HeatmpExercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
