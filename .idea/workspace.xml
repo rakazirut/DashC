@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c24b91ea-60b5-4d6e-8e93-29c5b556231e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/2010YumaAZ.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/linechartexercise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartIntro/LineChart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartIntro/linechart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartReal/LineChartReal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartReal/linechartreal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartReal/nst-est2017-alldata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartExercise/BarChartExercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartExercise/barchartexercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartExercise/mocksurvey.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartIntro/2018WinterOlympics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartIntro/BarChart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartIntro/barchart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/PlotlyLearn/ScatterPlot/ScatterPlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Course/PlotlyLearn/ScatterPlot/ScatterPlot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/linechartexercise.html" beforeDir="false" afterPath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/linechartexercise.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,25 +20,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartReal/LineChartReal.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartExercise/BarChartExercise.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="26" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,6 +61,8 @@
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartIntro/LineChart.py" />
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartReal/LineChartReal.py" />
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py" />
+        <option value="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartIntro/BarChart.py" />
+        <option value="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartExercise/BarChartExercise.py" />
       </list>
     </option>
   </component>
@@ -105,12 +93,6 @@
               <item name="DashC" type="b2602c69:ProjectViewProjectNode" />
               <item name="DashC" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
-              <item name="PandasLearn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DashC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DashC" type="462c0819:PsiDirectoryNode" />
-              <item name="Course" type="462c0819:PsiDirectoryNode" />
               <item name="PlotlyLearn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -118,15 +100,15 @@
               <item name="DashC" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
               <item name="PlotlyLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="LineChart" type="462c0819:PsiDirectoryNode" />
+              <item name="BarChart" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DashC" type="b2602c69:ProjectViewProjectNode" />
               <item name="DashC" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
               <item name="PlotlyLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="LineChart" type="462c0819:PsiDirectoryNode" />
-              <item name="LineChartExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="BarChart" type="462c0819:PsiDirectoryNode" />
+              <item name="BarChartExercise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DashC" type="b2602c69:ProjectViewProjectNode" />
@@ -152,7 +134,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartExercise/BarChartExercise.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -184,7 +166,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LineChartExercise">
+  <component name="RunManager" selected="Python.BarChartExercise">
+    <configuration name="BarChart" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DashC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Robert\Documents\Github\DashC\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartIntro" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartIntro/BarChart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BarChartExercise" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DashC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Robert\Documents\Github\DashC\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartExercise" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartExercise/BarChartExercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ExerciseOne" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="DashC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -339,6 +359,8 @@
       <item itemvalue="Python.LineChart" />
       <item itemvalue="Python.LineChartReal" />
       <item itemvalue="Python.LineChartExercise" />
+      <item itemvalue="Python.BarChart" />
+      <item itemvalue="Python.BarChartExercise" />
       <item itemvalue="Python.PandasOne" />
     </list>
     <recent_temporary>
@@ -367,7 +389,7 @@
       <workItem from="1578020559259" duration="226000" />
       <workItem from="1578020804793" duration="50000" />
       <workItem from="1578151819072" duration="4961000" />
-      <workItem from="1578156849632" duration="2700000" />
+      <workItem from="1578156849632" duration="7253000" />
     </task>
     <task id="LOCAL-00001" summary="+Adjust File Structure&#10;+Add PlotlyLearn&#10;+Add Scatterplot">
       <created>1578154438432</created>
@@ -383,17 +405,24 @@
       <option name="project" value="LOCAL" />
       <updated>1578154612789</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="+Add Line Chart Material">
+      <created>1578159918237</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578159918237</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17539000" />
+    <option name="totallyTimeSpent" value="22092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -408,7 +437,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32855567" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3660419" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3660419" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -423,7 +452,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="+Adjust File Structure&#10;+Add PlotlyLearn&#10;+Add Scatterplot" />
     <MESSAGE value="+Adjust File Structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="+Adjust File Structure" />
+    <MESSAGE value="+Add Line Chart Material" />
+    <option name="LAST_COMMIT_MESSAGE" value="+Add Line Chart Material" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DashC$NumpyOne.coverage" NAME="PandasOne Coverage Results" MODIFIED="1578011109795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PandasLearn" />
@@ -470,16 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartIntro/LineChart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course/PandasLearn/PandasOne.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -493,9 +513,29 @@
     <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartReal/linechartreal.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartIntro/LineChart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartIntro/BarChart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartReal/LineChartReal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="225">
           <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="26" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -505,10 +545,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="96">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="15" selection-end-column="22" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartExercise/BarChartExercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
