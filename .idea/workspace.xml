@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c24b91ea-60b5-4d6e-8e93-29c5b556231e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotExercise/BubblePlotExercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotExercise/BubblePlotExercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotExercise/bubbleplotexercise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotIntro/BubblePlot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotIntro/bubbleplot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotIntro/mpg.csv" afterDir="false" />
+    <list default="true" id="c24b91ea-60b5-4d6e-8e93-29c5b556231e" name="Default Changelist" comment="+Add Box Plot Material">
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotExercise/BoxPlotExercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotExercise/abalone.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotExercise/boxplotexercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotIntro/BoxPlot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartExercise/BarChartExercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartExercise/BarChartExercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/linechartexercise.html" beforeDir="false" afterPath="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/linechartexercise.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,22 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotIntro/BubblePlot.py">
+        <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotIntro/BoxPlot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" selection-start-line="6" selection-end-line="20" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotExercise/BubblePlotExercise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" selection-start-line="6" selection-end-line="20" selection-end-column="49" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="21" selection-end-column="14" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -44,10 +30,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotExercise/BubblePlotExercise2.py">
+        <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotExercise/BoxPlotExercise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="528">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -83,12 +69,14 @@
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartReal.py" />
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartIntro/LineChart.py" />
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartReal/LineChartReal.py" />
-        <option value="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py" />
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartIntro/BarChart.py" />
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/BarChart/BarChartExercise/BarChartExercise.py" />
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotIntro/BubblePlot.py" />
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotExercise/BubblePlotExercise.py" />
         <option value="$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotExercise/BubblePlotExercise2.py" />
+        <option value="$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotIntro/BoxPlot.py" />
+        <option value="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py" />
+        <option value="$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotExercise/BoxPlotExercise.py" />
       </list>
     </option>
   </component>
@@ -122,6 +110,21 @@
               <item name="DashC" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
               <item name="PlotlyLearn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DashC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DashC" type="462c0819:PsiDirectoryNode" />
+              <item name="Course" type="462c0819:PsiDirectoryNode" />
+              <item name="PlotlyLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="BoxPlot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DashC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DashC" type="462c0819:PsiDirectoryNode" />
+              <item name="Course" type="462c0819:PsiDirectoryNode" />
+              <item name="PlotlyLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="BoxPlot" type="462c0819:PsiDirectoryNode" />
+              <item name="BoxPlotExercise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DashC" type="b2602c69:ProjectViewProjectNode" />
@@ -194,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BubblePlot">
+  <component name="RunManager" selected="Python.LineChartExercise">
     <configuration name="BarChart" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="DashC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -306,9 +309,6 @@
       <module name="DashC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="C:\Users\Robert\Documents\Github\DashC\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -450,7 +450,7 @@
       <workItem from="1578020804793" duration="50000" />
       <workItem from="1578151819072" duration="4961000" />
       <workItem from="1578156849632" duration="7253000" />
-      <workItem from="1578164602074" duration="5257000" />
+      <workItem from="1578164602074" duration="7909000" />
     </task>
     <task id="LOCAL-00001" summary="+Adjust File Structure&#10;+Add PlotlyLearn&#10;+Add Scatterplot">
       <created>1578154438432</created>
@@ -473,17 +473,24 @@
       <option name="project" value="LOCAL" />
       <updated>1578159918237</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="+Add Bubble Plot Material">
+      <created>1578170285028</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578170285028</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27349000" />
+    <option name="totallyTimeSpent" value="30001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -514,7 +521,9 @@
     <MESSAGE value="+Adjust File Structure&#10;+Add PlotlyLearn&#10;+Add Scatterplot" />
     <MESSAGE value="+Adjust File Structure" />
     <MESSAGE value="+Add Line Chart Material" />
-    <option name="LAST_COMMIT_MESSAGE" value="+Add Line Chart Material" />
+    <MESSAGE value="+Add Bubble Plot Material" />
+    <MESSAGE value="+Add Box Plot Material" />
+    <option name="LAST_COMMIT_MESSAGE" value="+Add Box Plot Material" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DashC$NumpyOne.coverage" NAME="PandasOne Coverage Results" MODIFIED="1578011109795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PandasLearn" />
@@ -584,16 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="34" selection-start-line="34" selection-end-line="35" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartIntro/LineChart.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
@@ -636,8 +635,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotExercise/BubblePlotExercise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" selection-start-line="6" selection-end-line="20" selection-end-column="49" />
+        <state>
+          <caret selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/LineChart/LineChartExercise/LineChartExercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotIntro/BoxPlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="21" selection-end-column="14" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
@@ -646,8 +665,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BubblePlot/BubblePlotExercise/BubblePlotExercise2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/BoxPlot/BoxPlotExercise/BoxPlotExercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
