@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c24b91ea-60b5-4d6e-8e93-29c5b556231e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/PandasLearn/ExerciseOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/PandasLearn/ExerciseOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumpyLearn/NumpyOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/Course/NumpyLearn/NumpyOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasLearn/ExerciseOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/Course/PandasLearn/ExerciseOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasLearn/PandasOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/Course/PandasLearn/PandasOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasLearn/salaries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Course/PandasLearn/salaries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlotlyLearn/ScatterPlot/ScatterPlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Course/PlotlyLearn/ScatterPlot/ScatterPlot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlotlyLearn/ScatterPlot/scatter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Course/PlotlyLearn/ScatterPlot/scatter.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,27 +16,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/PlotlyLearn/ScatterPlot/ScatterPlot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-181" />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>venv</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -85,13 +74,6 @@
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; Python 3.7 (DashC) &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DashC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (DashC) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="PlotlyLearn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,12 +229,20 @@
       <workItem from="1578020526850" duration="19000" />
       <workItem from="1578020559259" duration="226000" />
       <workItem from="1578020804793" duration="50000" />
-      <workItem from="1578151819072" duration="2435000" />
+      <workItem from="1578151819072" duration="2697000" />
     </task>
+    <task id="LOCAL-00001" summary="+Adjust File Structure&#10;+Add PlotlyLearn&#10;+Add Scatterplot">
+      <created>1578154438432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578154438432</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12313000" />
+    <option name="totallyTimeSpent" value="12575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -284,6 +274,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+Adjust File Structure&#10;+Add PlotlyLearn&#10;+Add Scatterplot" />
+    <option name="LAST_COMMIT_MESSAGE" value="+Adjust File Structure&#10;+Add PlotlyLearn&#10;+Add Scatterplot" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DashC$NumpyOne.coverage" NAME="PandasOne Coverage Results" MODIFIED="1578011109795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PandasLearn" />
     <SUITE FILE_PATH="coverage/DashC$ExerciseOne.coverage" NAME="ExerciseOne Coverage Results" MODIFIED="1578017242337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/PandasLearn" />
@@ -295,7 +289,7 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PandasLearn/ExerciseOne.py">
+    <entry file="file://$PROJECT_DIR$/Course/PandasLearn/ExerciseOne.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
@@ -305,14 +299,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/NumpyLearn/NumpyOne.py">
+    <entry file="file://$PROJECT_DIR$/Course/NumpyLearn/NumpyOne.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="501">
           <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PandasLearn/PandasOne.py">
+    <entry file="file://$PROJECT_DIR$/Course/PandasLearn/PandasOne.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
@@ -322,7 +316,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PlotlyLearn/ScatterPlot/ScatterPlot.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="108" column="4" lean-forward="true" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/PlotlyLearn/ScatterPlot/ScatterPlot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
@@ -330,11 +331,6 @@
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-181" />
       </provider>
     </entry>
   </component>
